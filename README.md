@@ -39,7 +39,7 @@
 <td colspan="3" width="51%" align="center">
 
 <a href="https://youtube.com/@yu_dongni"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-<a href="https://bitbard-dongni.tistory.com"><img src="https://img.shields.io/badge/Tistory-FF5A4A?style=for-the-badge&logo=tistory&logoColor=white"/></a>
+<a href="https://bitbard-dongni.tistory.com"><img src="https://img.shields.io/badge/Tistory-FF5E00?style=for-the-badge&logo=tistory&logoColor=white"/></a>
 
 </td>
 
@@ -47,21 +47,21 @@
 
 <tr>
 <td width="17%" align="center">
-  <img src="https://img.shields.io/badge/영상미-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  <img src="https://img.shields.io/badge/영상미-f24848?style=for-the-badge&logo=youtube&logoColor=white"/>
   <a href="https://www.youtube.com/shorts/kvXV5klUboA">
     <img width="180" alt="Shorts 1" src="https://github.com/user-attachments/assets/c6236977-adf8-427e-84f5-8f25361d9f18" />
   </a>
 </td>
 
 <td width="17%" align="center">
-  <img src="https://img.shields.io/badge/최애-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  <img src="https://img.shields.io/badge/최애-f24848?style=for-the-badge&logo=youtube&logoColor=white"/>
   <a href="https://www.youtube.com/shorts/Gr_yABApl2k">
     <img width="180" alt="Shorts 2" src="https://github.com/user-attachments/assets/5bcf0a9d-02fc-4de8-84d6-eed2e7455ea8" />
   </a>
 </td>
 
 <td width="17%" align="center">
-  <img src="https://img.shields.io/badge/최다 조회수-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  <img src="https://img.shields.io/badge/최다 조회수-f24848?style=for-the-badge&logo=youtube&logoColor=white"/>
   <a href="https://www.youtube.com/shorts/_kLNbjGlZE4">
     <img width="180" alt="Shorts 3" src="https://github.com/user-attachments/assets/f4988a3e-9d58-47c7-b54d-9a3c28308930" />
   </a>
