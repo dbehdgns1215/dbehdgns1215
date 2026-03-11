@@ -1,7 +1,7 @@
 <p align="center">
   <img width="600" src="https://github.com/user-attachments/assets/299d92f5-2af3-4bf8-8d6e-67ea156d8245"/>
   <br>
-  <sub>"나와 나눈 모든 대화를 참고해서 나를 추상화해서 이미지로 만들어줘"</sub>
+  <sub>"나와 나눈 모든 대화를 바탕으로 나를 추상화해서 이미지로 만들어줘"</sub>
 </p>
 
 ---
