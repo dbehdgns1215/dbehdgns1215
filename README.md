@@ -38,8 +38,8 @@
 
 <td colspan="3" width="51%" align="center">
 
-<a href="https://youtube.com/@yu_dongni"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-<a href="https://bitbard-dongni.tistory.com"><img src="https://img.shields.io/badge/Tistory-FF5E00?style=for-the-badge&logo=tistory&logoColor=white"/></a>
+<a href="https://youtube.com/@yu_dongni" target="_blank">><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://bitbard-dongni.tistory.com" target="_blank">><img src="https://img.shields.io/badge/Tistory-FF5E00?style=for-the-badge&logo=tistory&logoColor=white"/></a>
 
 </td>
 
@@ -48,21 +48,21 @@
 <tr>
 <td width="17%" align="center">
   <img src="https://img.shields.io/badge/영상미-f24848?style=for-the-badge&logo=youtube&logoColor=white"/>
-  <a href="https://www.youtube.com/shorts/kvXV5klUboA">
+  <a href="https://www.youtube.com/shorts/kvXV5klUboA" target="_blank">>
     <img width="180" alt="Shorts 1" src="https://github.com/user-attachments/assets/c6236977-adf8-427e-84f5-8f25361d9f18" />
   </a>
 </td>
 
 <td width="17%" align="center">
   <img src="https://img.shields.io/badge/최애-f24848?style=for-the-badge&logo=youtube&logoColor=white"/>
-  <a href="https://www.youtube.com/shorts/Gr_yABApl2k">
+  <a href="https://www.youtube.com/shorts/Gr_yABApl2k" target="_blank">>
     <img width="180" alt="Shorts 2" src="https://github.com/user-attachments/assets/5bcf0a9d-02fc-4de8-84d6-eed2e7455ea8" />
   </a>
 </td>
 
 <td width="17%" align="center">
   <img src="https://img.shields.io/badge/최다 조회수-f24848?style=for-the-badge&logo=youtube&logoColor=white"/>
-  <a href="https://www.youtube.com/shorts/_kLNbjGlZE4">
+  <a href="https://www.youtube.com/shorts/_kLNbjGlZE4" target="_blank">>
     <img width="180" alt="Shorts 3" src="https://github.com/user-attachments/assets/f4988a3e-9d58-47c7-b54d-9a3c28308930" />
   </a>
 </td>
@@ -87,7 +87,9 @@
       </blockquote>
       <br>
       <blockquote>
-        한 배우가 시각장애인을 위해 기획 단계부터 오디오북을 염두해둔 소설을 출간한 일화에 깊은 감명을 받았습니다.<br>
+        한 배우가 시각장애인을 위해 기획 단계부터 오디오북을 염두해둔 소설을 출간한 
+        <a href="https://www.m-joongang.com/news/curationView.html?idxno=401400#:~:text=%EA%B9%80%EA%B8%88%ED%9D%AC%20%EC%9E%91%EA%B0%80%EC%97%90%EA%B2%8C%20%EC%A7%81%EC%A0%91%20%EB%A9%94%EC%9D%BC%EC%9D%84%20%EB%B3%B4%EB%82%B4%20%EC%84%AD%EC%99%B8%ED%96%88%EB%8B%A4.%20%E2%80%98%EC%9D%B4%20%EC%84%B8%EC%83%81%EC%97%90%EB%8A%94%C2%A0%EB%8B%B9%EC%8B%A0%EB%93%A4%EC%9D%84%20%EB%A8%BC%EC%A0%80%20%EC%83%9D%EA%B0%81%ED%95%98%EB%8A%94%20%EC%82%AC%EB%9E%8C%EB%8F%84%20%EC%9E%88%EB%8B%A4%EB%8A%94%20%EA%B2%83%EC%9D%B4%20%EA%B8%B0%ED%9A%8D%EC%9D%98%20%EB%AA%A9%ED%91%9C%EC%9E%85%EB%8B%88%EB%8B%A4.%20%EC%9E%91%EC%9D%80%20%EA%B2%83%EB%93%A4%EC%9D%84%20%EB%B0%94%EB%9D%BC%EB%B3%B4%EA%B3%A0%EC%9E%90%20%ED%95%98%EB%8A%94%20%EC%A0%80%ED%9D%AC%EC%9D%98%20%EB%9C%BB%EC%97%90%20%EB%8F%99%EC%B0%B8%ED%95%B4%20%EC%A3%BC%EC%8B%A0%EB%8B%A4%EB%A9%B4%E2%80%A6%E2%80%99%EC%9D%B4%EB%9D%BC%EA%B3%A0%20%EC%8D%BC%EB%8B%A4." target="_blank">
+        일화</a>에 깊은 감명을 받았습니다.<br>
         저 역시 기술을 통해 <b>작은 것들을 바라보고자 하는 시각을 잃지 않으며<br>
         종국에는 제 이름을 걸고 세상을 이롭게 변화시키는 개발자</b>가 되고자 합니다.
       </blockquote>
