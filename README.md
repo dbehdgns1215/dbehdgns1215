@@ -142,10 +142,6 @@
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=dbehdgns1215&style=flat-square&color=black"/>
+<img src="https://komarev.com/ghpvc/?username=dbehdgns1215&style=flat-square&color=212121"/>
 </p>
 
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dbehdgns1215&style=flat-square&color=black"/>
-</p>
