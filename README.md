@@ -9,59 +9,90 @@
 <table width="100%">
 <tr>
 
-<td rowspan="2" width="49%" align="center">
+<td rowspan="2" width="49%" align="center" valign="top">
 
-## 기술 스택
+<h2>기술 스택</h2>
 
+<b>Application Backend</b><br>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<br>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 <br><br>
 
+<b>Data & Messaging</b><br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<br>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-<br><br>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
 <br><br>
 
+<b>CI/CD & DevOps</b><br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<br><br>
+
+<b>Observability & Logging</b><br>
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/Promtail-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+<br>
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<br><br>
+
+<b>Tools</b><br>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gitlab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/K6-000000?style=for-the-badge&logo=k6&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Obsidian-2F3136?style=for-the-badge&logo=obsidian&logoColor=white"/>
+<br>
 
 </td>
 
-<td colspan="3" width="51%" align="center">
+<td colspan="3" width="51%" align="center" valign="top">
+
+<h2>채널</h2>
 
 <a href="https://youtube.com/@yu_dongni" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <a href="https://bitbard-dongni.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-FF5E00?style=for-the-badge&logo=tistory&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/dev-dongni" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
 
 </td>
 
 </tr>
 
 <tr>
-<td width="17%" align="center">
-  <img src="https://img.shields.io/badge/영상미-f24848?style=for-the-badge&logo=youtube&logoColor=white"/>
+<!-- 여기서부터 valign="top" 추가하고 사진 위에 br 태그 넣음 -->
+<td width="17%" align="center" valign="top">
+  <img src="https://img.shields.io/badge/영상미-f24848?style=for-the-badge&logo=youtube&logoColor=white"/><br><br>
   <a href="https://www.youtube.com/shorts/kvXV5klUboA" target="_blank">
     <img width="180" alt="Shorts 1" src="https://github.com/user-attachments/assets/c6236977-adf8-427e-84f5-8f25361d9f18" />
   </a>
 </td>
 
-<td width="17%" align="center">
-  <img src="https://img.shields.io/badge/최애-f24848?style=for-the-badge&logo=youtube&logoColor=white"/>
+<td width="17%" align="center" valign="top">
+  <img src="https://img.shields.io/badge/최애-f24848?style=for-the-badge&logo=youtube&logoColor=white"/><br><br>
   <a href="https://www.youtube.com/shorts/Gr_yABApl2k" target="_blank">
     <img width="180" alt="Shorts 2" src="https://github.com/user-attachments/assets/5bcf0a9d-02fc-4de8-84d6-eed2e7455ea8" />
   </a>
 </td>
 
-<td width="17%" align="center">
-  <img src="https://img.shields.io/badge/최다 조회수-f24848?style=for-the-badge&logo=youtube&logoColor=white"/>
+<td width="17%" align="center" valign="top">
+  <img src="https://img.shields.io/badge/최다 조회수-f24848?style=for-the-badge&logo=youtube&logoColor=white"/><br><br>
   <a href="https://www.youtube.com/shorts/_kLNbjGlZE4" target="_blank">
     <img width="180" alt="Shorts 3" src="https://github.com/user-attachments/assets/f4988a3e-9d58-47c7-b54d-9a3c28308930" />
   </a>
@@ -126,7 +157,7 @@
 
 <br>
 <br>
-
+<!--
 <table>
   <tr>
     <td width="50%" align="center">
@@ -145,10 +176,10 @@
     </td>
   </tr>
 </table>
+-->
 
 ---
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=dbehdgns1215&style=flat-square&color=212121"/>
 </p>
-
